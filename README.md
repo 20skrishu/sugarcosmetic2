@@ -14,9 +14,9 @@ To create this clone following Tech stack is used by contributors.
 
 You can also take the glimpse of my Project,just follow the below steps:
 
-    1.Clone the repo using 
+    1.Clone the repo using https://github.com/20skrishu/sugarcosmetic2.git
     
-    2.Oprn the index.html page on your browser.
+    2.Open the index.html page on your browser.
 
     3.You will land in the landing page just Register and login if you have signed up before or do the signup.
 
