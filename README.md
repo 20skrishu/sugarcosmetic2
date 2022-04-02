@@ -62,6 +62,8 @@ You can also take the glimpse of my Project,just follow the below steps:
 ![Final Message](https://cdn.hashnode.com/res/hashnode/image/upload/v1612857105623/Tn9Pi4ZUY.png?auto=compress,format&format=webp)
 ## Netify link :
 (https://ephemeral-tarsier-678402.netlify.app/)
+# BLOG link :
+(https://medium.com/@yo.crazy1krishna/unit-2-journey-of-masai-school-274b749573c1)
 
 
 *** 
